@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/68bd8f5e0a264a23b1a7d87bfc2b69a6)](https://app.codacy.com/gh/GServicesES/GServicesES?utm_source=github.com&utm_medium=referral&utm_content=GServicesES/GServicesES&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f4a2345f678c44b1a63bd23fc8b7d2e5)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GServicesES/GServicesES&amp;utm_campaign=Badge_Grade)
 # Sistema de oferta de serviços gerais
 ## :octocat: Integrantes
